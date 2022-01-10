@@ -37,8 +37,7 @@ Fiz alguma alterações que não estão no projeto original:
 
 Link do projeto no Figma: [Clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codelândia?node-id=39340%3A782)
 
-![site_mentor](C:\Users\User\Desktop\Screenshot_1.png)
-
+![Screenshot_1](https://user-images.githubusercontent.com/81163947/148851438-9bbd5bd7-aba0-4c8d-9556-2c1432907141.png)
 
 
 ✔ **Desafio feito por mim:** 
@@ -48,4 +47,4 @@ Alterações que fiz:
 > - Mudança da cor da barra de rolagem
 > - Botão para voltar ao início da página
 >
-> ![concluido](C:\Users\User\Desktop\Captura da Web_10-1-2022_191036_127.0.0.1.jpeg)
+![Captura da Web_10-1-2022_191036_127 0 0 1](https://user-images.githubusercontent.com/81163947/148851472-99d0b4c4-b8ab-4f01-831d-7d6b2ef7b2ef.jpeg)
